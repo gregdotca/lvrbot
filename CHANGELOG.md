@@ -3,6 +3,7 @@
 ## 2026-10-17 (retirement)
 
 - Add an archive notice to the top of `README.md`: lvrbot is retired because Reddit is ending public API access, which the bot needs to read and reply to posts. Links to TechCrunch's coverage of the shutdown.
+- Remove the `https://lvrbot.com` link from `README.md`, since the domain is being left to expire, and drop "The code is left here for reference." from the archive notice.
 - Add `ACR.md` with an AI Code Rating of B0a (all code written by hand; AI helped with docs only), and its badge under the `README.md` title.
 
 ## 2026-10-17
