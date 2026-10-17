@@ -1,5 +1,9 @@
-lvrbot - Low Volume Reply Bot (for Reddit)  
-https://lvrbot.com
+> **Archived:** lvrbot has been retired and is no longer maintained. It relies on Reddit's public API to read and reply to posts, and [Reddit is ending public API access](https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/), so the bot will stop working. The code is left here for reference.
+
+lvrbot - Low Volume Reply Bot (for Reddit)   
+https://lvrbot.com  
+
+[![ACR B0a](https://img.shields.io/badge/ACR-B0a-2140B5)](ACR.md)
 
 **Installation**
 
