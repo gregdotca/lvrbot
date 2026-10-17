@@ -5,14 +5,15 @@ https://lvrbot.com
 
 1. Copy _lvrbot.ini-sample_ to _lvrbot.ini_.
 2. Edit _lvrbot.ini_ and fill the fields in with your own details.
-3. Create a file called _lvrbot.reply_ and fill it in with the reply you want to post to Reddit.
-4. Schedule _lvrbot.py_ to run at regular intervals.
+3. Copy _lvrbot.replies-sample_ to _lvrbot.replies_ and edit it to contain the replies you want to post to Reddit (a JSON list; the bot cycles through them in order).
+4. Create an empty file called _lvrbot.posts_ (the bot records the posts it has replied to here).
+5. Schedule _lvrbot.py_ to run at regular intervals.
 
 **License**
 
 MIT License
 
-Copyright (c) 2024 lvrbot.com
+Copyright (c) 2024-2026 Greg Chetcuti <greg@chetcuti.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
